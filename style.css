@@ -71,7 +71,6 @@ img {
     height: 131px;
     display: flex;
     flex-flow: wrap;
-    padding-top: 24px;
     align-content: space-between;
 }
 
